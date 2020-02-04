@@ -1,0 +1,27 @@
+@import "variables";
+@import "fonts";
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+h1{
+    color:Red; 
+    font-size:600px; 
+}
+
+
+
+
+
+
+
+
+@import "hd";
+@import "tablet";
+@import "mobile";
